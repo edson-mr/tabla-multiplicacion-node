@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "esta es una app donde practico todo sobre nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3":"node app --base=3"
+  },
+  "author": "Aldair Mendoza",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
